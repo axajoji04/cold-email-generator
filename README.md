@@ -219,8 +219,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 
-Your Name - axajoji
-
+Name - Axa Joji [https://github.com/axajoji04]
 Project Link: [https://github.com/axajoji04/cold-email-generator](https://github.com/axajoji04/cold-email-generator)
 
 ---
